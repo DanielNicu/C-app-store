@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1623924934 source:c:\users\userw10\desktop\proiect sp nr 2\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"aplicatie.h"
+	"utilizator.h"
+
+1622119346 source:c:\users\userw10\desktop\proiect sp nr 2\src\aplicatie.cpp
+	"aplicatie.h"
+
+1622119335 c:\users\userw10\desktop\proiect sp nr 2\include\aplicatie.h
+	<iostream>
+	<string.h>
+	<string>
+	<fstream>
+
+1622103929 source:c:\users\userw10\desktop\proiect sp nr 2\src\catalog.cpp
+	"catalog.h"
+
+1622111288 c:\users\userw10\desktop\proiect sp nr 2\include\catalog.h
+	"aplicatie.h"
+
+1622123737 c:\users\userw10\desktop\proiect sp nr 2\include\utilizator.h
+	<iostream>
+	<string.h>
+	<string>
+	<fstream>
+
+1623952454 source:c:\users\userw10\desktop\proiect sp nr 2\src\utilizator.cpp
+	"utilizator.h"
+
+1624338508 source:c:\users\userw10\desktop\anul 1\proiect sp nr 2\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"aplicatie.h"
+	"utilizator.h"
+
+1622115735 c:\users\userw10\desktop\anul 1\proiect sp nr 2\include\aplicatie.h
+	<iostream>
+	<string.h>
+	<string>
+	<fstream>
+
+1622120137 c:\users\userw10\desktop\anul 1\proiect sp nr 2\include\utilizator.h
+	<iostream>
+	<string.h>
+	<string>
+	<fstream>
+
+1622115746 source:c:\users\userw10\desktop\anul 1\proiect sp nr 2\src\aplicatie.cpp
+	"aplicatie.h"
+
+1623948854 source:c:\users\userw10\desktop\anul 1\proiect sp nr 2\src\utilizator.cpp
+	"utilizator.h"
+
